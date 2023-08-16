@@ -1,9 +1,6 @@
 # Scripts
 Download custom/ 3rd party scripts for your website, blogs, etc. Check Now.
 
-# Templates
-Download Wordpress, Blogger, WooCommerce Themes for free. Check Now.
-
 <!--
 <h2 align="center">
   Welcome to ChaozByte!
